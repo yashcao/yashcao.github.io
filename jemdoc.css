@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: "Courier New", monospace;     /* font-family: Georgia, serif */
+	font-family: Arial,'Times New Roman','Microsoft YaHei',SimHei;;     /* font-family: Georgia, serif */
 	padding-bottom: 8px;
 	margin: 0;
 }
