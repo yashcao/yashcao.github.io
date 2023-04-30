@@ -133,6 +133,7 @@ h1 {
 h2 {
 	padding-top: 0.8em;
 	font-size: 125%;
+	background-color: #F6F6F6;   /* head bgcolor */
 }
 
 h2 + h3 {
