@@ -133,7 +133,8 @@ h1 {
 h2 {
 	padding-top: 0.8em;
 	font-size: 125%;
-	background-color: #0099CC;   /* head bgcolor */
+	background-color: #6666CC;   /* head bgcolor */
+	border-bottom: none;
 }
 
 h2 + h3 {
