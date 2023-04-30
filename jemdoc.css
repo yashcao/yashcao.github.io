@@ -131,9 +131,9 @@ h1 {
 }
 
 h2 {
-	padding-top: 0.8em;
+	/* padding-top: 0.8em;  */
 	font-size: 125%;
-	background-color: #6666CC;   /* head bgcolor */
+	background-color: #F4EFE1;   /* head bgcolor */
 	border-bottom: none;
 }
 
