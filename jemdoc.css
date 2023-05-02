@@ -162,6 +162,7 @@ p.one {
     text-justify: inter-ideograph;
 }
 
+/*
 p.two {
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
@@ -170,7 +171,7 @@ p.two {
     text-align: justify; 
     text-justify: inter-ideograph;
     font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;  /* pubs fonts */
-}
+}*/
 
 pre {
 	padding: 0;
