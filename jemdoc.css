@@ -146,11 +146,20 @@ h3 {
 	/* border-bottom: none; */
 }
 
+p {
+	margin-top: 0.0em;
+	margin-bottom: 0.8em;
+	padding: 0;
+	line-height: 1.3;
+}
+
 p.one {
 	margin-top: 0.0em;
 	margin-bottom: 0.8em;
 	padding: 0;
 	line-height: 1.3;
+    text-align: justify; 
+    text-justify: inter-ideograph;
 }
 
 p.two {
@@ -160,16 +169,7 @@ p.two {
 	line-height: 1.3;
     text-align: justify; 
     text-justify: inter-ideograph;
-}
-
-p.three {
-	margin-top: 0.0em;
-	margin-bottom: 0.8em;
-	padding: 0;
-	line-height: 1.3;
-    text-align: justify; 
-    text-justify: inter-ideograph;
-    font-family: "Times New Roman", Times, serif;  /* pubs fonts */
+    font-family: "Times New Roman", Times, serif;
 }
 
 pre {
