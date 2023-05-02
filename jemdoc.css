@@ -169,7 +169,7 @@ p.two {
 	line-height: 1.3;
     text-align: justify; 
     text-justify: inter-ideograph;
-    font-family: Tahoma;  /* pubs fonts */
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;  /* pubs fonts */
 }
 
 pre {
