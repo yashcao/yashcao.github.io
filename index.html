@@ -407,8 +407,16 @@
 </body>
 
 <script>
-  const date = new Date(document.lastModified);
-  document.getElementById('update').innerHTML = "Last updated " + date.getFullYear() + "-" + date.getMonth() + "-" + date.getDate();
+  window.onload = function () {
+    const dom = document.getElementById('update')
+    const newdate = new Date(document.lastModified);
+    const year = newdate.getFullYear().toString().padStart(2, '0');
+    const month = (newdate.getMonth() + 1).toString().padStart(2, '0');
+    const day = newdate.getDate().toString().padStart(2, '0');
+    const formattedDate = `${year}-${month}-${day}`;
+    dom.innerHTML = `Last updated ${formattedDate}`;
+  }
 </script>
+
 
 </html>
