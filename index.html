@@ -407,10 +407,8 @@
 </body>
 
 <script>
-  window.onload = function () {
-    const date = new Date(document.lastModified);
-    document.getElementById('update').innerHTML = "Last updated: " + date.getFullYear() + "-" + date.getMonth() + "-" + date.getDate();
-  }
+  const date = new Date(document.lastModified);
+  document.getElementById('update').innerHTML = "Last updated: " + date.getFullYear() + "-" + date.getMonth() + "-" + date.getDate();
 </script>
 
 </html>
