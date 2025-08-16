@@ -457,9 +457,10 @@
     const month = (newdate.getMonth() + 1).toString().padStart(2, '0');
     const day = newdate.getDate().toString().padStart(2, '0');
     const formattedDate = `${year}-${month}-${day}`;
-    dom.innerHTML = `Last updated ${formattedDate}`;
+    dom.innerHTML = `Last updated on ${formattedDate}`;
   }
 </script>
 
 
 </html>
+
