@@ -117,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #1E1A4D;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -133,7 +133,7 @@ h1 {
 h2 {
 	padding-top: 0.2em;
 	font-size: 125%;
-	background-color: #F4EFE1;   /* head bgcolor */
+	background-color: #F08080;   /* head bgcolor */
 	border-bottom: none;
 }
 
