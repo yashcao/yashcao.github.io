@@ -347,8 +347,10 @@ span.comment, span.comment > *, span.string, span.string > * {
 
 div#toptitle h1, #layout-content div#toptitle h1 {
 	margin-bottom: 0.0em;
-	padding-bottom: 0.1em;
-	padding-top: 0;
+	padding-top: 0.8em;     
+	padding-bottom: 0.8em;  
+	padding-left: 0.5em;    /* 增加左边距，防止文字贴边 */
+	padding-right: 0.5em;
 	margin-top: 0.5em;
 	border-bottom: none;
 }
