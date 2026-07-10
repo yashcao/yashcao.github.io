@@ -130,9 +130,12 @@ h1 {
 	font-size: 165%;
 	color: #FAFAF9;
 	background-color: #312C85;   /* head bgcolor */
-	padding-top: 0.8em;          
-	padding-bottom: 0.8em;       
-	padding-left: 0.5em;
+	/* 增加上下内边距，使背景色区域更高 */
+    padding: 0.8em 0.5em;   /* 上下0.8em，左右0.5em，可根据需要调整 */
+    margin: 0;              /* 可选，消除默认外边距干扰 */
+    line-height: 1.4;       /* 适当增大行高，也会影响背景高度 */
+    border-bottom: none;    /* 如果你不需要边框，可以去掉 */
+    /* 如果你的h1是块级元素（默认是），上述设置会生效 */
 }
 
 h2 {
