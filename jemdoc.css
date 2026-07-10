@@ -128,6 +128,8 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 165%;
+	color: #FAFAF9;
+	background-color: #312C85;   /* head bgcolor */
 }
 
 h2 {
