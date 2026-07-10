@@ -130,6 +130,9 @@ h1 {
 	font-size: 165%;
 	color: #FAFAF9;
 	background-color: #312C85;   /* head bgcolor */
+	padding-top: 0.8em;          
+	padding-bottom: 0.8em;       
+	padding-left: 0.5em;
 }
 
 h2 {
