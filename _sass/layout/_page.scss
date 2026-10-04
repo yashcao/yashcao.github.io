@@ -57,6 +57,8 @@
 
   p, li, dl {
     font-size: 1em;
+    text-align: justify;        /* 新增：两端对齐 */
+    text-justify: inter-word;   /* 可选：按单词间距调整，英文更自然 */
   }
 
   /* paragraph indents */
