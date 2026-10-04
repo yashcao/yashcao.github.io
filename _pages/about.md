@@ -21,7 +21,7 @@ Yashuai Cao received the B.E. and Ph.D. degrees in communication engineering fro
 School of Artificial Intelligence,  
 University of Science and Technology Beijing (USTB).  
 No. 30 Xueyuan Road, Haidian District, Beijing 100083, China.  
-Office: Room 409, Fangxing Building.  
-E-mail: caoys@ustb.edu.cn / caoys.2023@tsinghua.org.cn  
+**Office**: Room 409, Fangxing Building.  
+**Email**: caoys@ustb.edu.cn / caoys.2023@tsinghua.org.cn  
 
 To learn more about me, visit my [official personal page](https://ai.ustb.edu.cn/szdw/xsszmjs/C/499c1618aa1145d18f46004da46c6585.htm).
