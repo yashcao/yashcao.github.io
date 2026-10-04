@@ -157,7 +157,6 @@
     max-width: 150px;
     border-radius: 0%;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
-    margin-bottom: 8px;
     border: none !important;
     padding: 0 !important;
 
@@ -187,8 +186,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 12px;
-    margin-bottom: 12px;
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
 }
 .sidebar .author__name {
