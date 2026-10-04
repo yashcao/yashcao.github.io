@@ -406,5 +406,5 @@
 .page__title,
 .archive h1, .archive h2, .archive h3, .archive h4,
 .page__content h1, .page__content h2, .page__content h3, .page__content h4 {
-  color: #1a6fb0;
+  color: var(--global-heading-color);
 }
