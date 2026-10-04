@@ -1,6 +1,6 @@
-# 个人主页维护说明
+# Yashuai's Homepage
 
-Yashuai Cao 个人学术主页（https://yashcao.github.io ）。改内容时按下面表格定位对应文件即可。
+个人学术主页（https://yashcao.github.io ）。维护更新内容时按如下表格定位对应文件即可。
 
 ## 内容速查表
 
