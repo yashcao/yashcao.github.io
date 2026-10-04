@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 <ul>
   <li><b>B.S.</b> in communication engineering, <a href="https://www.cqupt.edu.cn/">Chongqing University of Posts and Telecommunications (CQUPT)</a>, 2013.9~2017.6</li>
   <li><b>Ph.D.</b> in information and communication engineering, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications (BUPT)</a>, 2017.9~2022.6</li>
 </ul>
 
 
-Work experience
-======
+## Work experience
+
 <ol>
   <li><b>Distinguished Associate Professor</b>, <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a>, 2025.6~Present
     <ul>
