@@ -20,14 +20,21 @@ Education
 Work experience
 ======
 <ol>
-  <li><b>Lecturer</b>, <a href="https://net.ncepu.edu.cn/">North China Electric Power University (NCEPU)</a>, 2022.7~2023.3
+  <li><b>Distinguished Associate Professor</b>, <a href="https://www.ustb.edu.cn/">University of Science and Technology Beijing (USTB)</a>, 2025.6~Present
     <ul>
-      <li><a href="https://dece.ncepu.edu.cn/">Department of Electronic and Communication Engineering</a></li>
+      <li><a href="https://ai.ustb.edu.cn/">School of Artificial Intelligence</a></li>
     </ul>
   </li>
+  
   <li><b>Post Doctor</b>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University (THU)</a>, 2023.5~2025.7
     <ul>
       <li><a href="https://www.ee.tsinghua.edu.cn/">Department of Electronic Engineering</a></li>
+    </ul>
+  </li>
+
+  <li><b>Lecturer</b>, <a href="https://net.ncepu.edu.cn/">North China Electric Power University (NCEPU)</a>, 2022.7~2023.3
+    <ul>
+      <li><a href="https://dece.ncepu.edu.cn/">Department of Electronic and Communication Engineering</a></li>
     </ul>
   </li>
 </ol>
