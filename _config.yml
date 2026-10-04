@@ -38,11 +38,11 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=6mSJFFwAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0936-978X"
+  orcid            : "https://orcid.org/0000-0003-0936-978X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # "https://www.researchgate.net/profile/Yashuai-Cao?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Yashuai-Cao"
   scopus           : # URL
   zotero           : # URL
 
