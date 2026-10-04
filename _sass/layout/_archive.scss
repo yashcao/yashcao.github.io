@@ -5,6 +5,10 @@
 .archive {
   margin-bottom: 2em;
 
+  > :first-child {
+    margin-top: 0;
+  }
+
   ol {
     text-align: justify;
   }
