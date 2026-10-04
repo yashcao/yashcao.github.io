@@ -19,12 +19,12 @@ main:
     
   - title: "Activities"
     url: /portfolio/
+
+  - title: "Experience"
+    url: /cv/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Experience"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
