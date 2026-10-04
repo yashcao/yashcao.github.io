@@ -3,8 +3,7 @@ layout: archive
 title: "Experience"
 permalink: /experience/
 author_profile: true
-redirect_from:
-  - /resume
+hide_title: true
 ---
 
 {% include base_path %}
