@@ -8,9 +8,9 @@
 |---|---|
 | 首页 / 个人简介 | `_pages/about.md` |
 | Research（研究方向 / 项目） | `_pages/research.html` |
-| Publications（论文 / 专利 / 标准） | `_pages/publications.html` |
+| Publications（论文 / 专利） | `_pages/publications.html` |
 | Teaching（学生指导 / 课程教学） | `_pages/teaching.html` |
-| Activities（学术活动 / 审稿） | `_pages/activities.html` |
+| Activities（标准化 / 学术活动 / 审稿） | `_pages/activities.html` |
 | Experience（教育 / 工作经历） | `_pages/experience.html` |
 | 顶部导航菜单（名称 / 顺序） | `_data/navigation.yml` |
 | 侧边栏（姓名 / 头像 / 单位 / 邮箱 / 社交链接） | `_config.yml` 的 `author:` 段 |
